@@ -1,0 +1,93 @@
+{
+	sEventName: "1979 · Афганистан: вмешиваться?",
+	sEventTag: "ussr1979_afganistan_vmeshivatsya",
+	sEventPicture: "ussr1979_afganistan_vmeshivatsya.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "Событие «Афганистан: вмешиваться?» (1979). Выберите курс."
+	},
+lTriggers: [],
+	lDecisions: [
+{
+			sTitle: "Ввести войска",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -120
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_DiplomacyPoints",
+					iCivID: 12,
+					iValue: -5
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1979_afganistan_vmeshivatsya_vvesti_voyska_1"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "Ультиматум: 4 дня на размышление",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -40
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_DiplomacyPoints",
+					iCivID: 12,
+					iValue: 3
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1979_afganistan_vmeshivatsya_ultimatum_4_dnya_na_razmyshlenie_1"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "Не вмешиваться",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: 50
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TechLevel",
+					iCivID: 12,
+					iValue: 5
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1979_afganistan_vmeshivatsya_ne_vmeshivatsya_1"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 1,
+				iEventMonth: 12,
+				iEventYear: 1979
+			},
+	eventDate_Until: {
+				iEventDay: 31,
+				iEventMonth: 12,
+				iEventYear: 1979
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

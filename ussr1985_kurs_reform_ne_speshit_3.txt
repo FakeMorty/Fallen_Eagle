@@ -1,0 +1,92 @@
+{
+	sEventName: "③ ФИНАЛ · Цена медлительности",
+	sEventTag: "ussr1985_kurs_reform_ne_speshit_3",
+	sEventPicture: "ussr1985_kurs_reform_ne_speshit_3.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "③ ФИНАЛ: «Цена медлительности» (дуга решения «Не спешить»). Терминальные решения: дают эффекты и не ветвятся дальше."
+	},
+lTriggers: [
+		{
+			lConditions: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Conditions_DecisionTaken",
+					sTag: "ussr1985_kurs_reform_2",
+					iCivID: 12
+					}
+			],
+			triggerType: "AND"
+		}
+	],
+	lDecisions: [
+{
+			sTitle: "застой",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -60
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_DiplomacyPoints",
+					iCivID: 12,
+					iValue: -3
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "стабилизировать",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -30
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_DiplomacyPoints",
+					iCivID: 12,
+					iValue: 2
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "догнать реформы",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: 80
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TechLevel",
+					iCivID: 12,
+					iValue: 8
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 1985
+			},
+	eventDate_Until: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 9999999
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

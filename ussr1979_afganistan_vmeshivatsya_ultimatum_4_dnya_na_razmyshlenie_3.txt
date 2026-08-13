@@ -1,0 +1,92 @@
+{
+	sEventName: "③ ФИНАЛ · Итог ультиматума",
+	sEventTag: "ussr1979_afganistan_vmeshivatsya_ultimatum_4_dnya_na_razmyshlenie_3",
+	sEventPicture: "ussr1979_afganistan_vmeshivatsya_ultimatum_4_dnya_na_razmyshlenie_3.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "③ ФИНАЛ: «Итог ультиматума» (дуга решения «Ультиматум: 4 дня на размышление»). Терминальные решения: дают эффекты и не ветвятся дальше."
+	},
+lTriggers: [
+		{
+			lConditions: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Conditions_DecisionTaken",
+					sTag: "ussr1979_afganistan_vmeshivatsya_1",
+					iCivID: 12
+					}
+			],
+			triggerType: "AND"
+		}
+	],
+	lDecisions: [
+{
+			sTitle: "войска введены",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -60
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_DiplomacyPoints",
+					iCivID: 12,
+					iValue: -3
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "затяжная пауза",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -30
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_DiplomacyPoints",
+					iCivID: 12,
+					iValue: 2
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "мирное урегулирование",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: 80
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TechLevel",
+					iCivID: 12,
+					iValue: 8
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 1979
+			},
+	eventDate_Until: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 9999999
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

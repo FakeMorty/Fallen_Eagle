@@ -1,0 +1,94 @@
+{
+	sEventName: "① НАЧАЛО · Инерция",
+	sEventTag: "ussr1985_zhyostkiy_kurs_status_kvo_1",
+	sEventPicture: "ussr1985_zhyostkiy_kurs_status_kvo_1.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "① НАЧАЛО: «Инерция» (дуга решения «Статус-кво»). Терминальные решения: дают эффекты и не ветвятся дальше."
+	},
+lTriggers: [
+		{
+			lConditions: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Conditions_DecisionTaken",
+					sTag: "ussr1985_zhyostkiy_kurs_1",
+					iCivID: 12
+					}
+			],
+			triggerType: "AND"
+		}
+	],
+	lDecisions: [
+{
+			sTitle: "ничего",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -60
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1985_zhyostkiy_kurs_status_kvo_2"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "косметика",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -20
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1985_zhyostkiy_kurs_status_kvo_2"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "тихие улучшения",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: 20
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TechLevel",
+					iCivID: 12,
+					iValue: 2
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1985_zhyostkiy_kurs_status_kvo_2"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 1985
+			},
+	eventDate_Until: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 9999999
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

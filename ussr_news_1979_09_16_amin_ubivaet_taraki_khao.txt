@@ -1,0 +1,36 @@
+{
+	sEventName: "Новости · Амин убивает Тараки: хаос в Кабуле",
+	sEventTag: "ussr_news_1979_09_16_amin_ubivaet_taraki_khao",
+	sEventPicture: "ussr_news_1979_09_16_amin_ubivaet_taraki_khao.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "Внутренняя резня: Амин расправился с Тараки и стал единоличным лидером. Москва не доверяет Амину, считает его неуправляемым. Контроль над «союзником» ускользает."
+	},
+lTriggers: [],
+	lDecisions: [
+{
+			sTitle: "Прочитать",
+			lOutcomes: [],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 16,
+				iEventMonth: 9,
+				iEventYear: 1979
+			},
+	eventDate_Until: {
+				iEventDay: 30,
+				iEventMonth: 9,
+				iEventYear: 1979
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

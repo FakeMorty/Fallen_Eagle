@@ -1,0 +1,94 @@
+{
+	sEventName: "① НАЧАЛО · Ввод дополнительных войск",
+	sEventTag: "ussr1979_afganistan_vmeshivatsya_vvesti_voyska_1",
+	sEventPicture: "ussr1979_afganistan_vmeshivatsya_vvesti_voyska_1.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "① НАЧАЛО: «Ввод дополнительных войск» (дуга решения «Ввести войска»). Терминальные решения: дают эффекты и не ветвятся дальше."
+	},
+lTriggers: [
+		{
+			lConditions: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Conditions_DecisionTaken",
+					sTag: "ussr1979_afganistan_vmeshivatsya_0",
+					iCivID: 12
+					}
+			],
+			triggerType: "AND"
+		}
+	],
+	lDecisions: [
+{
+			sTitle: "полный контингент",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -60
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1979_afganistan_vmeshivatsya_vvesti_voyska_2"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "только ударные части",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -20
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1979_afganistan_vmeshivatsya_vvesti_voyska_2"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "ополчение ДРА",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: 20
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TechLevel",
+					iCivID: 12,
+					iValue: 2
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1979_afganistan_vmeshivatsya_vvesti_voyska_2"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 1979
+			},
+	eventDate_Until: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 9999999
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

@@ -1,0 +1,94 @@
+{
+	sEventName: "② КУЛЬМИНАЦИЯ · Перестройка объявлена",
+	sEventTag: "ussr1985_smert_chernenko_gorbachyov_2",
+	sEventPicture: "ussr1985_smert_chernenko_gorbachyov_2.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "② КУЛЬМИНАЦИЯ: «Перестройка объявлена» (дуга решения «Горбачёв»). Терминальные решения: дают эффекты и не ветвятся дальше."
+	},
+lTriggers: [
+		{
+			lConditions: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Conditions_DecisionTaken",
+					sTag: "ussr1985_smert_chernenko_0",
+					iCivID: 12
+					}
+			],
+			triggerType: "AND"
+		}
+	],
+	lDecisions: [
+{
+			sTitle: "свёрнуто",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -60
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1985_smert_chernenko_gorbachyov_3"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "поэтапно",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -20
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1985_smert_chernenko_gorbachyov_3"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "радикально",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: 20
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TechLevel",
+					iCivID: 12,
+					iValue: 2
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1985_smert_chernenko_gorbachyov_3"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 1985
+			},
+	eventDate_Until: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 9999999
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

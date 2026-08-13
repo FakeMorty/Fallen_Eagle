@@ -1,0 +1,104 @@
+{
+	sEventName: "1984 · Смерть Андропова",
+	sEventTag: "ussr1984_smert_andropova",
+	sEventPicture: "ussr1984_smert_andropova.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "Событие «Смерть Андропова» (1984). Выберите курс."
+	},
+lTriggers: [
+		{
+			lConditions: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Conditions_DecisionTaken",
+					sTag: "ussr1982_smert_brezhneva_kto_preemnik_0",
+					iCivID: 12
+					}
+			],
+			triggerType: "AND"
+		}
+	],
+	lDecisions: [
+{
+			sTitle: "Черненко",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -120
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_DiplomacyPoints",
+					iCivID: 12,
+					iValue: -5
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1984_smert_andropova_chernenko_1"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "Горбачёв",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: 50
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TechLevel",
+					iCivID: 12,
+					iValue: 5
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1984_smert_andropova_gorbachyov_1"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		},
+{
+			sTitle: "Гришин",
+			lOutcomes: [
+				{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_Money",
+					iCivID: 12,
+					iValue: -120
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_DiplomacyPoints",
+					iCivID: 12,
+					iValue: -5
+					},
+{
+					class: "age.of.civilizations2.jakowski.lukasz.Event_Outcome_TriggerAnotherEvent",
+					sText: "ussr1984_smert_andropova_grishin_1"
+					}
+			],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 1984
+			},
+	eventDate_Until: {
+				iEventDay: 1,
+				iEventMonth: 1,
+				iEventYear: 9999999
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

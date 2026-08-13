@@ -1,0 +1,36 @@
+{
+	sEventName: "Новости · Мятеж в Герате: убиты советские советники",
+	sEventTag: "ussr_news_1979_03_17_myatezh_v_gerate_ubity_s",
+	sEventPicture: "ussr_news_1979_03_17_myatezh_v_gerate_ubity_s.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "В Герате взбунтовался гарнизон. Повстанцы убили около полусотни советских советников. В Москве впервые всерьёз заговорили о военном вмешательстве."
+	},
+lTriggers: [],
+	lDecisions: [
+{
+			sTitle: "Прочитать",
+			lOutcomes: [],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 17,
+				iEventMonth: 3,
+				iEventYear: 1979
+			},
+	eventDate_Until: {
+				iEventDay: 31,
+				iEventMonth: 3,
+				iEventYear: 1979
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

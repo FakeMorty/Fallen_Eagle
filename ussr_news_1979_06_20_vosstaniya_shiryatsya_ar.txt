@@ -1,0 +1,36 @@
+{
+	sEventName: "Новости · Восстания ширятся: армия ДРА разваливается",
+	sEventTag: "ussr_news_1979_06_20_vosstaniya_shiryatsya_ar",
+	sEventPicture: "ussr_news_1979_06_20_vosstaniya_shiryatsya_ar.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "По всей стране — восстания племён и исламистов. Правительственная армия дезертирует массово. Кабул контролирует только города."
+	},
+lTriggers: [],
+	lDecisions: [
+{
+			sTitle: "Прочитать",
+			lOutcomes: [],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 20,
+				iEventMonth: 6,
+				iEventYear: 1979
+			},
+	eventDate_Until: {
+				iEventDay: 30,
+				iEventMonth: 6,
+				iEventYear: 1979
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

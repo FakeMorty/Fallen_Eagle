@@ -1,0 +1,36 @@
+{
+	sEventName: "Новости · Переворот в Кабуле: НДПА берёт власть",
+	sEventTag: "ussr_news_1978_04_27_perevorot_v_kabule_ndpa_",
+	sEventPicture: "ussr_news_1978_04_27_perevorot_v_kabule_ndpa_.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "В Афганистане военные во главе с коммунистической НДПА свергли президента Дауда. Королевская эпоха закончилась. У власти — Тараки и его соратники. Москва присматривается."
+	},
+lTriggers: [],
+	lDecisions: [
+{
+			sTitle: "Прочитать",
+			lOutcomes: [],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 27,
+				iEventMonth: 4,
+				iEventYear: 1978
+			},
+	eventDate_Until: {
+				iEventDay: 30,
+				iEventMonth: 4,
+				iEventYear: 1978
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

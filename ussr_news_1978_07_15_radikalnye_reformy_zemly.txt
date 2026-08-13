@@ -1,0 +1,36 @@
+{
+	sEventName: "Новости · Радикальные реформы: земля, паранджа, школы",
+	sEventTag: "ussr_news_1978_07_15_radikalnye_reformy_zemly",
+	sEventPicture: "ussr_news_1978_07_15_radikalnye_reformy_zemly.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "Новое правительство начало ломать устои: конфискация земли, женское образование, борьба с традициями. Крестьяне и духовенство в ярости. По провинциям зреет недовольство."
+	},
+lTriggers: [],
+	lDecisions: [
+{
+			sTitle: "Прочитать",
+			lOutcomes: [],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 15,
+				iEventMonth: 7,
+				iEventYear: 1978
+			},
+	eventDate_Until: {
+				iEventDay: 31,
+				iEventMonth: 7,
+				iEventYear: 1978
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}

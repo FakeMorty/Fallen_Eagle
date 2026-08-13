@@ -1,0 +1,157 @@
+ussr_news_1978_04_27_perevorot_v_kabule_ndpa_.txt -> НОВОСТЬ: Переворот в Кабуле: НДПА берёт власть
+ussr_news_1978_07_15_radikalnye_reformy_zemly.txt -> НОВОСТЬ: Радикальные реформы: земля, паранджа, школы
+ussr_news_1979_01_20_iran_pylaet_shakh_svergn.txt -> НОВОСТЬ: Иран пылает: шах свергнут
+ussr_news_1979_03_17_myatezh_v_gerate_ubity_s.txt -> НОВОСТЬ: Мятеж в Герате: убиты советские советники
+ussr_news_1979_06_20_vosstaniya_shiryatsya_ar.txt -> НОВОСТЬ: Восстания ширятся: армия ДРА разваливается
+ussr_news_1979_09_16_amin_ubivaet_taraki_khao.txt -> НОВОСТЬ: Амин убивает Тараки: хаос в Кабуле
+ussr_news_1979_11_25_modzhakhedy_kontroliruyu.txt -> НОВОСТЬ: Моджахеды контролируют сельскую местность
+ussr1979_afganistan_vmeshivatsya.txt -> Афганистан: вмешиваться?
+ussr1979_afganistan_vmeshivatsya_vvesti_voyska_1.txt -> ① НАЧАЛО · Ввод дополнительных войск
+ussr1979_afganistan_vmeshivatsya_vvesti_voyska_2.txt -> ② КУЛЬМИНАЦИЯ · Крупная операция (Панджшер)
+ussr1979_afganistan_vmeshivatsya_vvesti_voyska_3.txt -> ③ ФИНАЛ · Итог кампании
+ussr1979_afganistan_vmeshivatsya_ultimatum_4_dnya_na_razmyshlenie_1.txt -> ① НАЧАЛО · Предъявление ультиматума
+ussr1979_afganistan_vmeshivatsya_ultimatum_4_dnya_na_razmyshlenie_2.txt -> ② КУЛЬМИНАЦИЯ · Афганистан отвечает
+ussr1979_afganistan_vmeshivatsya_ultimatum_4_dnya_na_razmyshlenie_3.txt -> ③ ФИНАЛ · Итог ультиматума
+ussr1979_afganistan_vmeshivatsya_ne_vmeshivatsya_1.txt -> ① НАЧАЛО · Отказ от вмешательства
+ussr1979_afganistan_vmeshivatsya_ne_vmeshivatsya_2.txt -> ② КУЛЬМИНАЦИЯ · Афганистан без СССР
+ussr1979_afganistan_vmeshivatsya_ne_vmeshivatsya_3.txt -> ③ ФИНАЛ · Итог невмешательства
+ussr1982_smert_brezhneva_kto_preemnik.txt -> Смерть Брежнева: кто преемник?
+ussr1982_smert_brezhneva_kto_preemnik_andropov_1.txt -> ① НАЧАЛО · Утверждение на посту
+ussr1982_smert_brezhneva_kto_preemnik_andropov_2.txt -> ② КУЛЬМИНАЦИЯ · Первые шаги
+ussr1982_smert_brezhneva_kto_preemnik_andropov_3.txt -> ③ ФИНАЛ · Курс Андропова
+ussr1982_smert_brezhneva_kto_preemnik_gorbachyov_ranniy_1.txt -> ① НАЧАЛО · Неожиданный выбор
+ussr1982_smert_brezhneva_kto_preemnik_gorbachyov_ranniy_2.txt -> ② КУЛЬМИНАЦИЯ · Ранние реформы
+ussr1982_smert_brezhneva_kto_preemnik_gorbachyov_ranniy_3.txt -> ③ ФИНАЛ · Итог раннего курса
+ussr1982_smert_brezhneva_kto_preemnik_chernenko_1.txt -> ① НАЧАЛО · Консервативный курс
+ussr1982_smert_brezhneva_kto_preemnik_chernenko_2.txt -> ② КУЛЬМИНАЦИЯ · Застой и здоровье
+ussr1982_smert_brezhneva_kto_preemnik_chernenko_3.txt -> ③ ФИНАЛ · Наследие Черненко
+ussr1983_kurs_andropova.txt -> Курс Андропова
+ussr1983_kurs_andropova_antikorruptsionnaya_chistka_1.txt -> ① НАЧАЛО · Чистка кадров
+ussr1983_kurs_andropova_antikorruptsionnaya_chistka_2.txt -> ② КУЛЬМИНАЦИЯ · Сопротивление номенклатуры
+ussr1983_kurs_andropova_antikorruptsionnaya_chistka_3.txt -> ③ ФИНАЛ · Итог чистки
+ussr1983_kurs_andropova_ekonomicheskiy_eksperiment_1.txt -> ① НАЧАЛО · Точечные реформы
+ussr1983_kurs_andropova_ekonomicheskiy_eksperiment_2.txt -> ② КУЛЬМИНАЦИЯ · Первые результаты
+ussr1983_kurs_andropova_ekonomicheskiy_eksperiment_3.txt -> ③ ФИНАЛ · Судьба эксперимента
+ussr1983_kurs_andropova_zamorozit_peremeny_1.txt -> ① НАЧАЛО · Отказ от реформ
+ussr1983_kurs_andropova_zamorozit_peremeny_2.txt -> ② КУЛЬМИНАЦИЯ · Давление снизу
+ussr1983_kurs_andropova_zamorozit_peremeny_3.txt -> ③ ФИНАЛ · Упущенный шанс
+ussr1983_kurs_gorbachyova_molodoy_reformator.txt -> Курс Горбачёва (молодой реформатор)
+ussr1983_kurs_gorbachyova_molodoy_reformator_radikalnaya_perestroyka_1.txt -> ① НАЧАЛО · Смелые реформы
+ussr1983_kurs_gorbachyova_molodoy_reformator_radikalnaya_perestroyka_2.txt -> ② КУЛЬМИНАЦИЯ · Трение с аппаратом
+ussr1983_kurs_gorbachyova_molodoy_reformator_radikalnaya_perestroyka_3.txt -> ③ ФИНАЛ · Итог радикализма
+ussr1983_kurs_gorbachyova_molodoy_reformator_postepennye_reformy_1.txt -> ① НАЧАЛО · Мягкий курс
+ussr1983_kurs_gorbachyova_molodoy_reformator_postepennye_reformy_2.txt -> ② КУЛЬМИНАЦИЯ · Накопление изменений
+ussr1983_kurs_gorbachyova_molodoy_reformator_postepennye_reformy_3.txt -> ③ ФИНАЛ · Устойчивость курса
+ussr1983_kurs_gorbachyova_molodoy_reformator_pritormozit_1.txt -> ① НАЧАЛО · Пауза
+ussr1983_kurs_gorbachyova_molodoy_reformator_pritormozit_2.txt -> ② КУЛЬМИНАЦИЯ · Потеря темпа
+ussr1983_kurs_gorbachyova_molodoy_reformator_pritormozit_3.txt -> ③ ФИНАЛ · Цена осторожности
+ussr1983_kurs_chernenko.txt -> Курс Черненко
+ussr1983_kurs_chernenko_prodolzhenie_zastoya_1.txt -> ① НАЧАЛО · Инерция
+ussr1983_kurs_chernenko_prodolzhenie_zastoya_2.txt -> ② КУЛЬМИНАЦИЯ · Деградация
+ussr1983_kurs_chernenko_prodolzhenie_zastoya_3.txt -> ③ ФИНАЛ · Углубление кризиса
+ussr1983_kurs_chernenko_kampanii_ideologiya_1.txt -> ① НАЧАЛО · Идеологическая мобилизация
+ussr1983_kurs_chernenko_kampanii_ideologiya_2.txt -> ② КУЛЬМИНАЦИЯ · Результат кампаний
+ussr1983_kurs_chernenko_kampanii_ideologiya_3.txt -> ③ ФИНАЛ · Итог идеологии
+ussr1983_kurs_chernenko_tikhaya_podgotovka_reform_1.txt -> ① НАЧАЛО · Кадровая подготовка
+ussr1983_kurs_chernenko_tikhaya_podgotovka_reform_2.txt -> ② КУЛЬМИНАЦИЯ · Планы в столе
+ussr1983_kurs_chernenko_tikhaya_podgotovka_reform_3.txt -> ③ ФИНАЛ · Готовность к переменам
+ussr1984_smert_andropova.txt -> Смерть Андропова
+ussr1984_smert_andropova_chernenko_1.txt -> ① НАЧАЛО · Возврат к застою
+ussr1984_smert_andropova_chernenko_2.txt -> ② КУЛЬМИНАЦИЯ · Борьба за влияние
+ussr1984_smert_andropova_chernenko_3.txt -> ③ ФИНАЛ · Консервативная власть
+ussr1984_smert_andropova_gorbachyov_1.txt -> ① НАЧАЛО · Смена поколения
+ussr1984_smert_andropova_gorbachyov_2.txt -> ② КУЛЬМИНАЦИЯ · Первые указы
+ussr1984_smert_andropova_gorbachyov_3.txt -> ③ ФИНАЛ · Курс на перемены
+ussr1984_smert_andropova_grishin_1.txt -> ① НАЧАЛО · Консервативная Москва
+ussr1984_smert_andropova_grishin_2.txt -> ② КУЛЬМИНАЦИЯ · Сопротивление переменам
+ussr1984_smert_andropova_grishin_3.txt -> ③ ФИНАЛ · Тупик
+ussr1985_smert_chernenko.txt -> Смерть Черненко
+ussr1985_smert_chernenko_gorbachyov_1.txt -> ① НАЧАЛО · Долгожданная смена
+ussr1985_smert_chernenko_gorbachyov_2.txt -> ② КУЛЬМИНАЦИЯ · Перестройка объявлена
+ussr1985_smert_chernenko_gorbachyov_3.txt -> ③ ФИНАЛ · Аппарат насторожен
+ussr1985_smert_chernenko_grishin_1.txt -> ① НАЧАЛО · Старая гвардия
+ussr1985_smert_chernenko_grishin_2.txt -> ② КУЛЬМИНАЦИЯ · Заморозка реформ
+ussr1985_smert_chernenko_grishin_3.txt -> ③ ФИНАЛ · Рост недовольства
+ussr1985_smert_chernenko_romanov_1.txt -> ① НАЧАЛО · Ленинградский консерватор
+ussr1985_smert_chernenko_romanov_2.txt -> ② КУЛЬМИНАЦИЯ · Идеологическая чистка
+ussr1985_smert_chernenko_romanov_3.txt -> ③ ФИНАЛ · Изоляция
+ussr1985_kurs_reform.txt -> Курс реформ
+ussr1985_kurs_reform_uskorenie_1.txt -> ① НАЧАЛО · Ставка на машиностроение
+ussr1985_kurs_reform_uskorenie_2.txt -> ② КУЛЬМИНАЦИЯ · Перегрузка экономики
+ussr1985_kurs_reform_uskorenie_3.txt -> ③ ФИНАЛ · Итог ускорения
+ussr1985_kurs_reform_perestroyka_1.txt -> ① НАЧАЛО · Структурные реформы
+ussr1985_kurs_reform_perestroyka_2.txt -> ② КУЛЬМИНАЦИЯ · Трение с аппаратом
+ussr1985_kurs_reform_perestroyka_3.txt -> ③ ФИНАЛ · Результат перестройки
+ussr1985_kurs_reform_ne_speshit_1.txt -> ① НАЧАЛО · Осторожные шаги
+ussr1985_kurs_reform_ne_speshit_2.txt -> ② КУЛЬМИНАЦИЯ · Время уходит
+ussr1985_kurs_reform_ne_speshit_3.txt -> ③ ФИНАЛ · Цена медлительности
+ussr1985_zhyostkiy_kurs.txt -> Жёсткий курс
+ussr1985_zhyostkiy_kurs_zakruchivanie_gaek_1.txt -> ① НАЧАЛО · Усиление контроля
+ussr1985_zhyostkiy_kurs_zakruchivanie_gaek_2.txt -> ② КУЛЬМИНАЦИЯ · Подавление инакомыслия
+ussr1985_zhyostkiy_kurs_zakruchivanie_gaek_3.txt -> ③ ФИНАЛ · Осаждённая крепость
+ussr1985_zhyostkiy_kurs_status_kvo_1.txt -> ① НАЧАЛО · Инерция
+ussr1985_zhyostkiy_kurs_status_kvo_2.txt -> ② КУЛЬМИНАЦИЯ · Деградация
+ussr1985_zhyostkiy_kurs_status_kvo_3.txt -> ③ ФИНАЛ · Застой
+ussr1985_zhyostkiy_kurs_taynaya_modernizatsiya_1.txt -> ① НАЧАЛО · Реформы втайне
+ussr1985_zhyostkiy_kurs_taynaya_modernizatsiya_2.txt -> ② КУЛЬМИНАЦИЯ · Окно возможностей
+ussr1985_zhyostkiy_kurs_taynaya_modernizatsiya_3.txt -> ③ ФИНАЛ · Осторожное открытие
+ussr1986_chernobyl.txt -> Чернобыль
+ussr1986_chernobyl_skryt_masshtaby_1.txt -> ① НАЧАЛО · Заторможенная эвакуация
+ussr1986_chernobyl_skryt_masshtaby_2.txt -> ② КУЛЬМИНАЦИЯ · Огромные жертвы
+ussr1986_chernobyl_skryt_masshtaby_3.txt -> ③ ФИНАЛ · Недоверие + штрафы на провинцию Чернобыль
+ussr1986_chernobyl_dozirovannaya_pravda_1.txt -> ① НАЧАЛО · Частичное информирование
+ussr1986_chernobyl_dozirovannaya_pravda_2.txt -> ② КУЛЬМИНАЦИЯ · Эвакуация с опозданием
+ussr1986_chernobyl_dozirovannaya_pravda_3.txt -> ③ ФИНАЛ · Умеренное недоверие
+ussr1986_chernobyl_polnaya_pravda_1.txt -> ① НАЧАЛО · Немедленная эвакуация
+ussr1986_chernobyl_polnaya_pravda_2.txt -> ② КУЛЬМИНАЦИЯ · Открытые данные
+ussr1986_chernobyl_polnaya_pravda_3.txt -> ③ ФИНАЛ · Доверие растёт, система критикуется
+ussr1987_glasnost.txt -> Гласность
+ussr1987_glasnost_polnaya_svoboda_smi_1.txt -> ① НАЧАЛО · Снятие запретов
+ussr1987_glasnost_polnaya_svoboda_smi_2.txt -> ② КУЛЬМИНАЦИЯ · Критика системы
+ussr1987_glasnost_polnaya_svoboda_smi_3.txt -> ③ ФИНАЛ · Общество прозрело
+ussr1987_glasnost_kontroliruemaya_glasnost_1.txt -> ① НАЧАЛО · Дозированная свобода
+ussr1987_glasnost_kontroliruemaya_glasnost_2.txt -> ② КУЛЬМИНАЦИЯ · Балансирование
+ussr1987_glasnost_kontroliruemaya_glasnost_3.txt -> ③ ФИНАЛ · Полуоткрытое общество
+ussr1987_glasnost_svernut_glasnost_1.txt -> ① НАЧАЛО · Зажим СМИ
+ussr1987_glasnost_svernut_glasnost_2.txt -> ② КУЛЬМИНАЦИЯ · Сопротивление интеллигенции
+ussr1987_glasnost_svernut_glasnost_3.txt -> ③ ФИНАЛ · Общество глухо
+ussr1988_xix_partkonferentsiya_politreforma.txt -> XIX партконференция: политреформа
+ussr1988_xix_partkonferentsiya_politreforma_mnogopartiynost_1.txt -> ① НАЧАЛО · Отмена ст.6
+ussr1988_xix_partkonferentsiya_politreforma_mnogopartiynost_2.txt -> ② КУЛЬМИНАЦИЯ · Первые свободные выборы
+ussr1988_xix_partkonferentsiya_politreforma_mnogopartiynost_3.txt -> ③ ФИНАЛ · Новая политическая система
+ussr1988_xix_partkonferentsiya_politreforma_chastichnaya_reforma_1.txt -> ① НАЧАЛО · Съезд депутатов
+ussr1988_xix_partkonferentsiya_politreforma_chastichnaya_reforma_2.txt -> ② КУЛЬМИНАЦИЯ · Полуреформа работает?
+ussr1988_xix_partkonferentsiya_politreforma_chastichnaya_reforma_3.txt -> ③ ФИНАЛ · Гибридная система
+ussr1988_xix_partkonferentsiya_politreforma_otklonit_reformu_1.txt -> ① НАЧАЛО · Сохранение ст.6
+ussr1988_xix_partkonferentsiya_politreforma_otklonit_reformu_2.txt -> ② КУЛЬМИНАЦИЯ · Недовольство растёт
+ussr1988_xix_partkonferentsiya_politreforma_otklonit_reformu_3.txt -> ③ ФИНАЛ · Авторитарная стабильность
+ussr1989_parad_suverenitetov.txt -> Парад суверенитетов
+ussr1989_parad_suverenitetov_silovaya_reaktsiya_1.txt -> ① НАЧАЛО · Тбилиси / Баку
+ussr1989_parad_suverenitetov_silovaya_reaktsiya_2.txt -> ② КУЛЬМИНАЦИЯ · Кровь на улицах
+ussr1989_parad_suverenitetov_silovaya_reaktsiya_3.txt -> ③ ФИНАЛ · Потеря легитимности
+ussr1989_parad_suverenitetov_novyy_soyuznyy_dogovor_1.txt -> ① НАЧАЛО · Проект ССГ
+ussr1989_parad_suverenitetov_novyy_soyuznyy_dogovor_2.txt -> ② КУЛЬМИНАЦИЯ · Торг с республиками
+ussr1989_parad_suverenitetov_novyy_soyuznyy_dogovor_3.txt -> ③ ФИНАЛ · Подписан ли договор?
+ussr1989_parad_suverenitetov_ignorirovat_1.txt -> ① НАЧАЛО · Делать вид, что нет проблемы
+ussr1989_parad_suverenitetov_ignorirovat_2.txt -> ② КУЛЬМИНАЦИЯ · Суверенитеты множатся
+ussr1989_parad_suverenitetov_ignorirovat_3.txt -> ③ ФИНАЛ · Упущенное время
+ussr1990_ekonomicheskiy_krizis.txt -> Экономический кризис
+ussr1990_ekonomicheskiy_krizis_500_dney_1.txt -> ① НАЧАЛО · Рыночный шок
+ussr1990_ekonomicheskiy_krizis_500_dney_2.txt -> ② КУЛЬМИНАЦИЯ · Гиперинфляция
+ussr1990_ekonomicheskiy_krizis_500_dney_3.txt -> ③ ФИНАЛ · Рынок или крах
+ussr1990_ekonomicheskiy_krizis_plavnyy_perekhod_1.txt -> ① НАЧАЛО · Постепенная реформа
+ussr1990_ekonomicheskiy_krizis_plavnyy_perekhod_2.txt -> ② КУЛЬМИНАЦИЯ · Баланс дефицита
+ussr1990_ekonomicheskiy_krizis_plavnyy_perekhod_3.txt -> ③ ФИНАЛ · Умеренная стабилизация
+ussr1990_ekonomicheskiy_krizis_plan_subsidii_1.txt -> ① НАЧАЛО · Сохранить план
+ussr1990_ekonomicheskiy_krizis_plan_subsidii_2.txt -> ② КУЛЬМИНАЦИЯ · Дефицит нарастает
+ussr1990_ekonomicheskiy_krizis_plan_subsidii_3.txt -> ③ ФИНАЛ · Экономика на издыхании
+ussr1991_avgustovskiy_putch.txt -> Августовский путч ★
+ussr1991_avgustovskiy_putch_podderzhat_gkchp_1.txt -> ① НАЧАЛО · Танки в Москве
+ussr1991_avgustovskiy_putch_podderzhat_gkchp_2.txt -> ② КУЛЬМИНАЦИЯ · Сопротивление
+ussr1991_avgustovskiy_putch_podderzhat_gkchp_3.txt -> ③ ФИНАЛ · СССР сохранён
+ussr1991_avgustovskiy_putch_podderzhat_eltsina_1.txt -> ① НАЧАЛО · Баррикады
+ussr1991_avgustovskiy_putch_podderzhat_eltsina_2.txt -> ② КУЛЬМИНАЦИЯ · Провал путча
+ussr1991_avgustovskiy_putch_podderzhat_eltsina_3.txt -> ③ ФИНАЛ · Распад СССР
+ussr1991_avgustovskiy_putch_neytralitet_ssg_1.txt -> ① НАЧАЛО · Не вставать на сторону
+ussr1991_avgustovskiy_putch_neytralitet_ssg_2.txt -> ② КУЛЬМИНАЦИЯ · Компромисс
+ussr1991_avgustovskiy_putch_neytralitet_ssg_3.txt -> ③ ФИНАЛ · Обновлённый Союз

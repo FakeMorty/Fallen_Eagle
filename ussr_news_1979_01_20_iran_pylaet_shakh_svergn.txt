@@ -1,0 +1,36 @@
+{
+	sEventName: "Новости · Иран пылает: шах свергнут",
+	sEventTag: "ussr_news_1979_01_20_iran_pylaet_shakh_svergn",
+	sEventPicture: "ussr_news_1979_01_20_iran_pylaet_shakh_svergn.png",
+	wasFired: false,
+	wasTriedToRunOnce: false,
+	repeatable: false,
+	iCivID_Recipient: 12,
+	event_PopUp: {
+		showPopUp: true,
+		sText: "В соседнем Иране исламская революция свергла шаха. Весь регион охвачен нестабильностью. Кремль опасается, что волна докатится до Афганистана и советских границ."
+	},
+lTriggers: [],
+	lDecisions: [
+{
+			sTitle: "Прочитать",
+			lOutcomes: [],
+			iAIChance: 100,
+			sDesc: ""
+		}
+	],
+	eventDate_Since: {
+				iEventDay: 20,
+				iEventMonth: 1,
+				iEventYear: 1979
+			},
+	eventDate_Until: {
+				iEventDay: 31,
+				iEventMonth: 1,
+				iEventYear: 1979
+			}
+	sEventSFX: "",
+	isMission: false,
+	missionDesc: "",
+	tempTAG: ""
+}
